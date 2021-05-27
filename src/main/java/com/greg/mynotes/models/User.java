@@ -1,5 +1,10 @@
 package com.greg.mynotes.models;
 
+/**
+ *
+ * Created by Gregory Roberts on 5/27/21
+ *
+ */
 
 import javax.persistence.*;
 import java.util.Set;

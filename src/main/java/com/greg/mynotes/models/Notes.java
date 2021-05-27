@@ -1,5 +1,11 @@
 package com.greg.mynotes.models;
 
+/**
+ *
+ * Created by Gregory Roberts on 5/27/21
+ *
+ */
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
