@@ -1,5 +1,11 @@
 package com.greg.mynotes.configs;
 
+/**
+ *
+ * Created by Gregory Roberts on 5/27/21
+ *
+ */
+
 import com.greg.mynotes.services.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

@@ -1,5 +1,11 @@
 package com.greg.mynotes.configs;
 
+/**
+ *
+ * Created by Gregory Roberts on 5/27/21
+ *
+ */
+
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.web.authentication.AuthenticationSuccessHandler;
