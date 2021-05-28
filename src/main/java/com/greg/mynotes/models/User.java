@@ -76,6 +76,13 @@ public class User {
     }
 
     /**
+     * build and return full name
+     * @return returns the users full name
+     */
+    public String getFullName() {
+        return this.firstName + " " + this.lastName;
+    }
+    /**
      * Get user first name
      * @return user first name
      */
